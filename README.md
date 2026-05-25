@@ -86,7 +86,7 @@ RVPS/
 Clone repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/RVPS.git
+git clone https://github.com/MichaelChen2025/RVPS.git
 
 cd RVPS
 ```
@@ -291,7 +291,7 @@ RVPS/
 克隆仓库：
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/RVPS.git
+git clone https://github.com/MichaelChen2025/RVPS.git
 
 cd RVPS
 ```
