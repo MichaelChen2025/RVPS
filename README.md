@@ -4,6 +4,7 @@ Road Vision Perception System
 
 Real-time road scene understanding using YOLO object detection, lane detection, and drivable area segmentation.
 
+<img width="2013" height="1181" alt="ScreenShot_2026-05-26_202712_009" src="https://github.com/user-attachments/assets/f7d7bc82-9af8-4896-a9b4-d828f85bc674" />
 ---
 
 [English](#english) | [中文](#中文)
